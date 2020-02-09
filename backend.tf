@@ -4,7 +4,7 @@ terraform {
     skip_metadata_api_check     = true
     endpoint                    = "https://fra1.digitaloceanspaces.com"
     region                      = "us-east-1" // needed
-    bucket                      = "tutorial-dev" // name of your space
+    bucket                      = "<THE NAME OF YOUR SPACE>" // name of your space
     key                         = "infrastructure/terraform.tfstate"
   }
 }
