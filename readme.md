@@ -1,9 +1,4 @@
 # template-terraform-digitalocean-space
 
-```bash
-$> terraform init --backend-config=./backend_config.hcl
-```
+Check the tutorial [Storing Terraform State in Digital Ocean Space at Dev.to](https://dev.to/aleixmorgadas/storing-terraform-state-in-digital-ocean-space-3a97)
 
-```bash
-$> terraform apply
-```
