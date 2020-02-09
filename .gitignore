@@ -1,0 +1,5 @@
+.terraform/
+
+# Uncommend the following two lines
+# backend_config.hcl
+# terraform.tfvars
